@@ -1,0 +1,17 @@
+{
+  "brand": "Lab4Leads",
+  "legal_name": "[COMPLETAR: nombre o razón social del prestador]",
+  "tax_id": "[COMPLETAR: NIF/CIF u otro identificador]",
+  "business_address": "[COMPLETAR: domicilio social]",
+  "privacy_email": "[COMPLETAR: email de privacidad]",
+  "support_email": "[COMPLETAR: email de soporte]",
+  "effective_date": "18 de octubre de 2026",
+  "chat_retention": "[DEFINIR: plazo de conservación de conversaciones por cliente]",
+  "log_retention": "[DEFINIR: plazo de conservación de registros técnicos]",
+  "backup_retention": "[DEFINIR: plazo máximo de copias de seguridad tras borrado]",
+  "deletion_period": "[DEFINIR: plazo operativo de supresión al terminar contrato]",
+  "providers_and_regions": "[COMPLETAR: proveedores efectivos de alojamiento, mensajería e IA y países/regiones de tratamiento]",
+  "cross_border_safeguards": "[COMPLETAR: transferencias internacionales y garantías aplicables, si las hay]",
+  "competent_courts": "[COMPLETAR: ciudad de los tribunales, sujeto a normas imperativas]",
+  "legal_review_confirmed": false
+}
