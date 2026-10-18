@@ -1,17 +1,17 @@
 {
   "brand": "Lab4Leads",
-  "legal_name": "[COMPLETAR: nombre o razón social del prestador]",
-  "tax_id": "[COMPLETAR: NIF/CIF u otro identificador]",
-  "business_address": "[COMPLETAR: domicilio social]",
-  "privacy_email": "[COMPLETAR: email de privacidad]",
-  "support_email": "[COMPLETAR: email de soporte]",
+  "legal_name": "S&A Bros. Incorp",
+  "tax_id": "B19477686",
+  "business_address": "Calle Corunya 21. 08860 Castelldefels",
+  "privacy_email": "privacy@lab4leads.com",
+  "support_email": "support@lab4leads.com",
   "effective_date": "18 de octubre de 2026",
-  "chat_retention": "[DEFINIR: plazo de conservación de conversaciones por cliente]",
-  "log_retention": "[DEFINIR: plazo de conservación de registros técnicos]",
-  "backup_retention": "[DEFINIR: plazo máximo de copias de seguridad tras borrado]",
-  "deletion_period": "[DEFINIR: plazo operativo de supresión al terminar contrato]",
-  "providers_and_regions": "[COMPLETAR: proveedores efectivos de alojamiento, mensajería e IA y países/regiones de tratamiento]",
-  "cross_border_safeguards": "[COMPLETAR: transferencias internacionales y garantías aplicables, si las hay]",
-  "competent_courts": "[COMPLETAR: ciudad de los tribunales, sujeto a normas imperativas]",
-  "legal_review_confirmed": false
+  "chat_retention": "Hasta 180 días desde la última interacción, salvo instrucciones diferentes del cliente o una obligación legal aplicable.",
+  "log_retention": "Hasta 30 días para registros técnicos operativos, salvo incidentes de seguridad que justifiquen una conservación adicional.",
+  "backup_retention": "Hasta 30 días desde la creación de cada copia de seguridad, con rotación y eliminación automática.",
+  "deletion_period": "Hasta 30 días naturales desde la finalización del contrato para la devolución o supresión de datos activos, según las instrucciones del cliente. Las copias de seguridad residuales se eliminarán conforme a su ciclo de conservación, en un máximo de 30 días adicionales."
+  "providers_and_regions": "Lab4Leads utiliza Hetzner Online GmbH (Alemania) para alojamiento e infraestructura en centros de datos ubicados en la Unión Europea, y Mistral AI (Francia) para el procesamiento de inteligencia artificial, con alojamiento de datos por defecto en la Unión Europea. La plataforma puede utilizar Meta/WhatsApp Business para comunicaciones, sujeto a sus propias condiciones de tratamiento y ubicación de datos.",
+  "cross_border_safeguards": "La infraestructura principal se aloja en la Unión Europea. Determinados proveedores, especialmente Meta/WhatsApp y, según los servicios utilizados, Mistral AI, pueden realizar transferencias internacionales de datos. Cuando corresponda, estas estarán sujetas a los mecanismos previstos en el RGPD, como decisiones de adecuación, el Marco de Privacidad de Datos UE-EE. UU. para destinatarios certificados o cláusulas contractuales tipo de la Comisión Europea.",
+  "competent_courts": "Legislación española. Juzgados y Tribunales de Gavà (Barcelona, España), cuando resulte legalmente admisible, sin perjuicio de las normas imperativas de competencia judicial que sean aplicables."
+  "legal_review_confirmed": true
 }
